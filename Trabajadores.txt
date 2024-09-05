@@ -1,0 +1,5 @@
+123;Juan ;Perez;20;093542;Masculino;440.0;No aplica;[Vehiculo{placa=YZSJDHG, color=Rojo, rutavehiculo=Ruta{idruta=123, distanciaKm=20.0}}, Vehiculo{placa=YYYZ, color=Verde, rutavehiculo=Ruta{idruta=2223, distanciaKm=30.0}}];Mecanico
+2222;Carlos;Rodriguez;30;0777777;Masculino;440.0;No aplica;[Vehiculo{placa=OPSHDG, color=Azul, rutavehiculo=Ruta{idruta=999, distanciaKm=50.0}}, Vehiculo{placa=OOOFFF, color=Amarillo, rutavehiculo=Ruta{idruta=6666, distanciaKm=50.0}}];Mecanico
+888;Carlos;Crespo;30;044444;Masculino;540.0;No aplica;20;Vehiculo{placa=YZZZ, color=Azul, rutavehiculo=Ruta{idruta=999, distanciaKm=50.0}};Repartidor
+8888;Juan;Carlos;40;0654;Masculino;540.0;No aplica;20;Vehiculo{placa=AYSDHSG, color=Verde, rutavehiculo=Ruta{idruta=999, distanciaKm=100.0}};Repartidor
+9999;Carmen;Sosa;21;087777;Femenino;375.0;Excelente;Cajero
